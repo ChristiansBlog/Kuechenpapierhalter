@@ -1,3 +1,3 @@
 # LED-Leiste
-Hier findest du die STL Datei für die 3D gedruckte Rolle des Küchenpapierhalters.
+Hier findest du die STL Datei für die 3D gedruckte Rolle des Küchenpapierhalters.\n
 Blog Beitrag: 
